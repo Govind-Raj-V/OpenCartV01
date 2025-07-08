@@ -1,0 +1,50 @@
+06:31:48:561 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+06:31:48:592 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+06:31:48:696 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:31:50:078 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+06:31:52:230 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+06:31:52:277 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+06:49:33:379 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+06:49:33:409 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+06:49:33:517 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:49:34:885 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+06:49:36:550 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+06:49:36:597 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+06:51:44:219 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+06:51:44:251 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+06:51:44:338 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:51:45:752 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+06:51:52:033 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+06:51:52:105 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+06:52:06:259 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+06:52:06:279 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+06:52:06:371 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:52:07:363 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+06:52:12:985 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+06:52:13:036 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+06:58:20:355 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+06:58:20:385 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+06:58:20:474 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:58:21:472 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+06:58:27:886 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+06:58:27:921 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+06:59:47:778 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+06:59:47:801 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+06:59:47:901 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+06:59:49:193 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+06:59:56:164 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+06:59:56:190 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+07:05:41:290 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+07:05:41:326 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+07:05:41:411 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+07:05:42:622 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+07:05:49:580 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+07:05:50:962 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Test passed**************
+07:29:20:752 [main] INFO  testCases.TC002_LoginPageTest - ************* Starting test TC002_LoginPageTest *************
+07:29:20:788 [main] INFO  testCases.TC002_LoginPageTest - Click on MyAccount link
+07:29:20:900 [main] INFO  testCases.TC002_LoginPageTest - Click on Login link
+07:29:21:434 [main] INFO  testCases.TC002_LoginPageTest - Providing valid login data
+07:44:46:697 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+07:44:46:720 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+07:44:46:735 [main] INFO  testCases.TC002_LoginPageTest - ************* Starting test TC002_LoginPageTest *************
+07:44:46:735 [main] INFO  testCases.TC002_LoginPageTest - Click on MyAccount link

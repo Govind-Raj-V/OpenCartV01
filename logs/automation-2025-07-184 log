@@ -1,0 +1,59 @@
+08:29:32:557 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:29:32:626 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:29:42:683 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:29:42:683 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:29:42:767 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:35:26:024 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartV01\testng.xml
+
+08:35:32:648 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:35:32:672 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:35:32:744 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:35:33:504 [main] INFO  testCases.TC003_LoginDDTest - Providing valid login data
+08:35:47:025 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:35:47:025 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:35:47:142 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:35:48:535 [main] INFO  testCases.TC003_LoginDDTest - Providing valid login data
+08:36:02:013 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:36:02:013 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:36:02:086 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:36:12:130 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:36:12:130 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:36:12:205 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:36:22:287 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:36:22:287 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:36:22:341 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:36:32:417 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:36:32:417 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:36:32:488 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:36:42:492 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:36:42:492 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:36:42:557 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:36:53:985 [main] INFO  testCases.TC003_LoginDDTest - Providing valid login data
+08:39:24:298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartV01\testng.xml
+
+08:39:30:501 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:39:30:515 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:39:30:589 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:39:31:148 [main] INFO  testCases.TC003_LoginDDTest - Providing valid login data
+08:39:44:699 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:39:44:699 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:39:44:810 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:39:46:161 [main] INFO  testCases.TC003_LoginDDTest - Providing valid login data
+08:39:59:717 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:39:59:717 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:39:59:819 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:40:04:903 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:40:04:903 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:40:04:990 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:40:05:949 [main] INFO  testCases.TC003_LoginDDTest - Providing valid login data
+08:40:19:678 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:40:19:678 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:40:19:733 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:40:21:089 [main] INFO  testCases.TC003_LoginDDTest - Providing valid login data
+08:40:34:829 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:40:34:829 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
+08:40:34:955 [main] INFO  testCases.TC003_LoginDDTest - Click on Login link
+08:40:39:508 [main] INFO  testCases.TC003_LoginDDTest - ************* Starting test TC003_LoginDDTest *************
+08:40:39:509 [main] INFO  testCases.TC003_LoginDDTest - Click on MyAccount link
