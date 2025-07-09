@@ -1,0 +1,48 @@
+08:23:50:454 [main] INFO  testCases.TC002_LoginPageTest - Click on Login link
+08:23:51:671 [main] INFO  testCases.TC002_LoginPageTest - Providing valid login data
+08:23:55:428 [main] INFO  testCases.TC002_LoginPageTest - ************* TC002_LoginPageTest test is passed *************
+08:26:18:637 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+08:26:18:712 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+08:26:19:015 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+08:26:20:909 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+08:26:24:264 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+08:26:25:343 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Test passed**************
+08:26:32:548 [main] INFO  testCases.TC002_LoginPageTest - ************* Starting test TC002_LoginPageTest *************
+08:26:32:548 [main] INFO  testCases.TC002_LoginPageTest - Click on MyAccount link
+08:26:32:894 [main] INFO  testCases.TC002_LoginPageTest - Click on Login link
+08:26:33:791 [main] INFO  testCases.TC002_LoginPageTest - Providing valid login data
+08:26:37:585 [main] INFO  testCases.TC002_LoginPageTest - ************* TC002_LoginPageTest test is passed *************
+05:27:38:538 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+05:27:38:556 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+05:27:38:905 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+05:27:39:259 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+05:27:40:529 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+05:27:40:809 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Test passed**************
+05:27:42:384 [main] INFO  testCases.TC002_LoginPageTest - ************* Starting test TC002_LoginPageTest *************
+05:27:42:384 [main] INFO  testCases.TC002_LoginPageTest - Click on MyAccount link
+05:27:42:484 [main] INFO  testCases.TC002_LoginPageTest - Click on Login link
+05:27:42:710 [main] INFO  testCases.TC002_LoginPageTest - Providing valid login data
+05:27:43:788 [main] INFO  testCases.TC002_LoginPageTest - ************* TC002_LoginPageTest test is passed *************
+05:41:47:380 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* Starting test TC001_AccountRegistrationTest *************
+05:41:47:404 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+05:41:47:782 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+05:41:48:133 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details randomely
+05:41:49:582 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+05:41:49:898 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Test passed**************
+05:41:51:439 [main] INFO  testCases.TC002_LoginPageTest - ************* Starting test TC002_LoginPageTest *************
+05:41:51:439 [main] INFO  testCases.TC002_LoginPageTest - Click on MyAccount link
+05:41:51:534 [main] INFO  testCases.TC002_LoginPageTest - Click on Login link
+05:41:51:753 [main] INFO  testCases.TC002_LoginPageTest - Providing valid login data
+05:41:52:897 [main] INFO  testCases.TC002_LoginPageTest - ************* TC002_LoginPageTest test is passed *************
+07:48:21:189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:48:21:197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+07:48:21:199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:48:21:200 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:48:21:201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:48:21:201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:48:21:202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:48:21:202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:48:21:214 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+07:48:21:227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+07:48:21:230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:48:21:230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
