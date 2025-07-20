@@ -32,6 +32,7 @@ public class TC006_AddToCartPageTest extends BaseClass{
 			sp.clickViewCart();
 		}
 		
+		Thread.sleep(2000);
 		
 		AddToCartPage cart=new AddToCartPage(driver);
 		cart.clickEstimateShipping();

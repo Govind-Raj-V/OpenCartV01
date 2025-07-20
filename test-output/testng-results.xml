@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-20T20:37:35 IST" name="Suite" finished-at="2025-07-20T20:37:55 IST" duration-ms="19542">
+  <suite started-at="2025-07-20T21:01:20 IST" name="Suite" finished-at="2025-07-20T21:01:42 IST" duration-ms="22829">
     <groups>
       <group name="master">
-        <method signature="TC006_AddToCartPageTest.verifyAddToCartPage()[pri:0, instance:testCases.TC006_AddToCartPageTest@16ce702d]" name="verifyAddToCartPage" class="testCases.TC006_AddToCartPageTest"/>
+        <method signature="TC006_AddToCartPageTest.verifyAddToCartPage()[pri:0, instance:testCases.TC006_AddToCartPageTest@1f3f02ee]" name="verifyAddToCartPage" class="testCases.TC006_AddToCartPageTest"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2025-07-20T20:37:35 IST" name="ChromeTest" finished-at="2025-07-20T20:37:55 IST" duration-ms="19542">
+    <test started-at="2025-07-20T21:01:20 IST" name="ChromeTest" finished-at="2025-07-20T21:01:42 IST" duration-ms="22829">
       <class name="testCases.TC006_AddToCartPageTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC006_AddToCartPageTest@16ce702d]" started-at="2025-07-20T20:37:35 IST" name="setup" finished-at="2025-07-20T20:37:42 IST" duration-ms="6358" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC006_AddToCartPageTest@1f3f02ee]" started-at="2025-07-20T21:01:20 IST" name="setup" finished-at="2025-07-20T21:01:26 IST" duration-ms="6243" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyAddToCartPage()[pri:0, instance:testCases.TC006_AddToCartPageTest@16ce702d]" started-at="2025-07-20T20:37:42 IST" name="verifyAddToCartPage" finished-at="2025-07-20T20:37:53 IST" duration-ms="10934" status="PASS">
+        <test-method signature="verifyAddToCartPage()[pri:0, instance:testCases.TC006_AddToCartPageTest@1f3f02ee]" started-at="2025-07-20T21:01:26 IST" name="verifyAddToCartPage" finished-at="2025-07-20T21:01:42 IST" duration-ms="15782" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAddToCartPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC006_AddToCartPageTest@16ce702d]" started-at="2025-07-20T20:37:53 IST" name="tearDown" finished-at="2025-07-20T20:37:55 IST" duration-ms="1779" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC006_AddToCartPageTest@1f3f02ee]" started-at="2025-07-20T21:01:42 IST" name="tearDown" finished-at="2025-07-20T21:01:42 IST" duration-ms="270" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

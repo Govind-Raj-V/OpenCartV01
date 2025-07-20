@@ -25,3 +25,27 @@
 20:37:42:336 [main] INFO  testCases.TC006_AddToCartPageTest - **********TC006_AddToCartPageTest is started**********
 20:37:52:981 [main] INFO  testCases.TC006_AddToCartPageTest - Validating the actual price with the expected price
 20:37:53:244 [main] INFO  testCases.TC006_AddToCartPageTest - *********TC006_AddToCartPageTest is finished*************
+20:54:02:686 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartV01\testng.xml
+
+20:54:03:238 [TestNG-tests-2] INFO  testCases.TC002_LoginPageTest - ************* Starting test TC002_LoginPageTest *************
+20:54:03:285 [TestNG-tests-2] INFO  testCases.TC002_LoginPageTest - Click on MyAccount link
+20:54:11:067 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest - ************* Starting test TC002_LoginPageTest *************
+20:54:11:067 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest - Click on MyAccount link
+20:54:11:325 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest - Click on Login link
+20:54:12:161 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest - Providing valid login data
+20:54:16:032 [TestNG-tests-1] INFO  testCases.TC002_LoginPageTest - ************* TC002_LoginPageTest test is passed *************
+20:59:08:332 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartV01\master.xml
+
+20:59:15:362 [main] INFO  testCases.TC006_AddToCartPageTest - **********TC006_AddToCartPageTest is started**********
+21:00:18:956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartV01\master.xml
+
+21:00:26:779 [main] INFO  testCases.TC006_AddToCartPageTest - **********TC006_AddToCartPageTest is started**********
+21:01:20:014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartV01\master.xml
+
+21:01:26:806 [main] INFO  testCases.TC006_AddToCartPageTest - **********TC006_AddToCartPageTest is started**********
+21:01:42:343 [main] INFO  testCases.TC006_AddToCartPageTest - Validating the actual price with the expected price
+21:01:42:553 [main] INFO  testCases.TC006_AddToCartPageTest - *********TC006_AddToCartPageTest is finished*************
