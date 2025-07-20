@@ -8,6 +8,7 @@ import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
 import java.util.Properties;
+import java.util.Scanner;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -30,6 +31,7 @@ public class BaseClass {
 	public static WebDriver driver;
 	public Logger logger;
 	public Properties pro;
+	public Scanner sc;
 
   @SuppressWarnings("deprecation")
 @BeforeClass(groups= {"Sanity","Regression","Master","DataDriven"})
@@ -39,6 +41,7 @@ public class BaseClass {
 	  FileReader file=new FileReader("./src//test//resources//config.properties");
 	  pro=new Properties();
 	  pro.load(file);
+	  sc=new Scanner(System.in);
 	  
 	  logger= LogManager.getLogger(this.getClass());
 	  

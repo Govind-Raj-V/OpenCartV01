@@ -8,10 +8,12 @@
   <parameter name="Os" value="Windows"></parameter>
   <parameter name="Browser" value="Chrome"></parameter>
     <classes>
-     <!-- <class name="testCases.TC001_AccountRegistrationTest"/>
-      <class name="testCases.TC002_LoginPageTest"/> -->
-    <!--  <class name="testCases.TC003_LoginDDTest"/> -->
-    <class name="testCases.TC004_SearchProductTest"></class>
+    <!-- <class name="testCases.TC001_AccountRegistrationTest"/>
+    <class name="testCases.TC002_LoginPageTest"/>
+    <class name="testCases.TC003_LoginDDTest"/>
+    <class name="testCases.TC004_SearchProductTest"/>
+    <class name="testCases.TC005_SearchedProductPageTest"/>-->
+    <class name="testCases.TC006_AddToCartPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

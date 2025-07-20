@@ -1,9 +1,9 @@
 package testCases;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
-import pageObjects.LoginPage;
 import pageObjects.SearchPage;
 import testBase.BaseClass;
 
@@ -13,24 +13,24 @@ public class TC004_SearchProductTest extends BaseClass  {
 	public void verify_productSearch() throws InterruptedException {
 		logger.info("************Starting test TC004_SearchProductTest ************" );
 		
-		logger.info("Login into the account");
-		HomePage hp=new HomePage(driver);
-		hp.clickMyAccount();
-		hp.clickLogin();
-		
-		LoginPage lp=new LoginPage(driver);
-		lp.setEmail(pro.getProperty("Email"));
-		lp.setPassword("pswd");
-		
+		try {
 		logger.info("search product in the searchbox field");
-		SearchPage sp =new SearchPage(driver);
+		HomePage hp=new HomePage(driver);
 		hp.enterProductName("Mac");
 		hp.clickSearch();
+		
+		logger.info("Identifiying the product");
+		SearchPage sp =new SearchPage(driver);
+		
 		sp.selectCategory("Desktops");
 		sp.clickSubCategory();
+		sp.clickProductDescription();
 		sp.clickSearchBtn();
-		sp.selectProduct();
-		
+		Assert.assertTrue(sp.isProductVisible("iMac"));
+		}
+		catch(Exception e) {
+			Assert.fail();
+		}
 		logger.info("*************TC004_SearchProductTest test is finished*************");
 		
 	}
